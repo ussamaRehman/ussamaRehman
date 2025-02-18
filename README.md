@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML and Blockchain
 - 🌱 I’m currently learning ML and Blockchain applications
 - 💞️ I’m looking to collaborate on ML projects
-- 📫 How to reach me breakdown20200@gmail.com
+- 📫 How to reach me ussama.rehman8466@gmail.com
 
 <!---
 ussamaRehman/ussamaRehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
