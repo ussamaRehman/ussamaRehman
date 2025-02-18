@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ussamaRehman
-- 👀 I’m interested in SaaA
-- 🌱 I’m currently learning React Native for cross-platorm applications
+- 👀 I’m interested in ML and Blockchain
+- 🌱 I’m currently learning ML and Blockchain applications
 - 💞️ I’m looking to collaborate on React/React Native apps
 - 📫 How to reach me breakdown20200@gmail.com
 
