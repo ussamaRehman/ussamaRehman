@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ussamaRehman
-- 👀 I’m interested in ML and Blockchain
-- 🌱 I’m currently learning ML and Blockchain applications
+- 👀 I’m interested in AI/ML 
+- 🌱 I’m currently learning ML 
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me ussama.rehman8466@gmail.com
 
