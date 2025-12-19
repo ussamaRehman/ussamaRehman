@@ -2,7 +2,7 @@
 	•	🚀 Building my path toward Machine Learning Engineer & Founder
 	•	📚 Currently learning ML, Deep Learning, NLP & Automation
 	•	💡 Exploring how AI agents can solve real-world problems (like matchmaking & beyond)
-	•	🤝 Open to collaborate on ML projects, applied research, and AI-driven products
+	•	🤝 Open to collaborate on ML projects and AI-driven products
 	•	📫 Reach me at ussama.rehman8466@gmail.com
 
 <!---
