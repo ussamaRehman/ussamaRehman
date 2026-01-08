@@ -5,7 +5,7 @@
 	•	🤝 Open to collaborate on ML projects and AI-driven products
 	•	🔗 LinkedIn: https://www.linkedin.com/in/ussamarehman/
 	•	𝕏 X (Twitter): https://x.com/RehmanUssama
-	•	📫 Reach me at ussama.rehman8466@gmail.com
+	
 	
 
 <!---
