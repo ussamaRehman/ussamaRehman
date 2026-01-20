@@ -4,7 +4,6 @@
 	•	💡 Exploring how AI agents can 100x our development workflow (Shipping at inference speed)
 	•	🤝 Open to collaborate on ML projects and AI-driven products
 	•	🔗 LinkedIn: https://www.linkedin.com/in/ussamarehman/
-	•	𝕏 X (Twitter): https://x.com/RehmanUssama
 	
 	
 
