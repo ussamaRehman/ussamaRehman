@@ -2,7 +2,7 @@
 	•	🚀 Building my path toward Machine Learning Engineer
 	•	🚀 Building production-style ML projects (ML/DL + AWS) — deploying models as FastAPI inference APIs with Docker, tests, and evaluation.
 	•	💡 Exploring how AI agents can 100x our development workflow (Shipping at inference speed)
-	•	🤝 Open to collaborate on ML projects and AI-driven products
+	
 	
 	
 	
