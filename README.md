@@ -1,7 +1,7 @@
 	•	👋 Hi, I’m Ussama Rehman
 	•	🚀 Building my path toward Machine Learning Engineer
 	•	🚀 Building production-style ML projects (ML/DL + AWS) — deploying models as FastAPI inference APIs with Docker, tests, and evaluation.
-	•	💡 Exploring how AI agents can 100x our development workflow 
+
 	
 	
 	
