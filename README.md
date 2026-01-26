@@ -1,5 +1,5 @@
 	•	👋 Hi, I’m Ussama Rehman
-	•	🚀 Building my path toward Machine Learning Engineer
+
 
 
 	
